@@ -1,0 +1,27 @@
+.trigger:hover {
+  color: #1890ff;
+}
+
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 18px;
+  text-align: center;
+  line-height: 32px;
+
+  h2 {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Georgia, '宋体', Times, serif;
+  }
+}
+
+
+
+.home-baxBox {
+  height: 100%;
+}
+
+.logo_show {
+  visibility: hidden
+}

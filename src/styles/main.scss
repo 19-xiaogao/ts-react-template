@@ -1,0 +1,10 @@
+@import './default.scss'; // 取消浏览器默认样式
+@import './globalConfig.scss'; // 全局配置样式
+
+html,
+body,
+#root {
+  background-color: $color !important;
+  width: 100%;
+  height: 100%;
+}
