@@ -1,7 +1,5 @@
 ### SPA单页面后台模板
 1. 使用ts配合react和react-router-dom搭配的单项目后台模板,组件使用的antd,请求使用的axios.
-1. 如果你不想使用Umi或者antd-Design Pro这类脚手架工具,想需要比较简单SPA开发模板或者这个会是你更好的选择(=-=)。
- ## 如果能帮到你,是我荣幸！
 ### 启动
 npm run start
 
